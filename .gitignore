@@ -1,0 +1,8 @@
+.env
+database/
+.python_packages
+__pycache__
+.venv
+.vscode
+__blobstorage__
+__queuestorage__
